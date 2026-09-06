@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Updates%20in%20Progress-yellow?style=for-the-badge)
 # TrustBid — Verify Every Bid. Trust Every Tender.
 
 An AI-assisted compliance verification platform for government tenders — document parsing, OCR, rule matching, risk scoring and fraud detection, delivered in seconds with evidence for every decision.
